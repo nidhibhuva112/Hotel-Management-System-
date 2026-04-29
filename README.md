@@ -1,0 +1,8 @@
+This is my first project.
+
+-> Hotel Management System
+
+- Developed a web-based hotel booking system with user authentication
+- Implemented rom booking, reservation management and cancellation
+- Integrated payment system and PDF bill generation
+- Used Django, SQLite, HTML,CSS
