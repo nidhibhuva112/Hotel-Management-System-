@@ -1,6 +1,6 @@
 This is my first project.
 
--> Hotel Management System
+-><b> Hotel Management System </b>
 
 - Developed a web-based hotel booking system with user authentication
 - Implemented rom booking, reservation management and cancellation
